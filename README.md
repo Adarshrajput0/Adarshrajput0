@@ -1,5 +1,38 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Building full-stack web applications using Node.js, Express, MongoDB, and EJS, including authentication systems, session management, and RESTful APIs. I’m also strengthening my core CS foundations through hands-on projects that implement real backend architecture concepts.<br>I’m looking to collaborate on<br>Backend-focused open-source projects, REST API development, database-driven applications, and projects involving Java or Python where system design and clean architecture matter.<br><br>🌱 I’m currently learning<br>Data Structures and Algorithms (deeply), Operating Systems, Computer Networks, Compiler Design, Enterprise Java (JDBC, Maven), and building REST APIs using Flask and Express.<br><br>💬 Ask me about<br>Node.js backend development, authentication & session handling, MongoDB integration, REST API design, Java fundamentals, and how I break down complex CS subjects into structured learning steps.<br><br>⚡ Fun fact<br>I prefer understanding concepts from first principles rather than memorizing them. If I learn a new topic, I usually build a mini-project around it to truly master it.
+# 👋 Hi, I'm Adarsh Rajput
+
+I'm a **Computer Science student and Software Engineer in the making**, interested in building practical software, backend systems, and intelligent applications using **Java, JavaScript, AI/ML, and data-driven technologies**.
+
+### 💻 What I Do
+
+* Build web applications and backend systems using **Node.js, Express.js, React, MongoDB, and REST APIs**
+* Develop applications with **authentication, session management, database integration, and scalable API architecture**
+* Strengthen my **Data Structures & Algorithms** skills through regular problem solving in Java
+* Explore **Artificial Intelligence, Machine Learning, and Data Analytics** by working with data and building practical solutions
+* Apply computer science concepts through hands-on projects rather than relying only on theory
+
+### 🌱 Currently Learning
+
+**Data Structures & Algorithms • AI/ML • Data Analytics • Operating Systems • Computer Networks • Compiler Design • Enterprise Java • REST API Development • System Design**
+
+### 🤝 Open to Collaborate On
+
+I'm interested in **open-source projects, backend systems, AI/ML applications, data-driven projects, REST APIs, and Java/JavaScript projects** where I can contribute, learn, and build meaningful solutions.
+
+### 🛠️ Tech Stack
+
+**Languages:** Java, JavaScript, Python
+**Frontend:** React.js, HTML, CSS
+**Backend:** Node.js, Express.js, REST APIs
+**Database:** MongoDB
+**AI/ML & Data:** Machine Learning, Data Analytics
+**Tools:** Git, GitHub, Maven
+
+### ⚡ My Approach
+
+I believe in **learning by building**. I prefer understanding concepts from first principles, applying them to real projects, and improving through experimentation and problem solving.
+
+> **Learn → Build → Analyze → Improve**
+
 
 
 ## 🌐 Socials:
